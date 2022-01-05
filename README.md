@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Parsa and I'm a Engineering student at McMaster University 
+- 👀 I’m very intersted in programming, machine learning, and data science 
+- 🌱 I’m currently learning fundumentals of programming such as data structures and algorithms 
